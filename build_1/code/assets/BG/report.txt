@@ -1,0 +1,87 @@
+Error: Did not find pairs in D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\1\
+ Status: Converted Successfuly
+Pal usage: [475, 69, 56, 34, 60, 76, 38, 46, 28, 94, 162, 58, 59, 46, 149, 342]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\10\
+ Status: Converted Successfuly
+Pal usage: [244, 65, 87, 320, 57, 207, 141, 130, 287, 150, 97, 39, 55, 41, 163, 93]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\11\
+ Status: Converted Successfuly
+Pal usage: [778, 86, 100, 45, 50, 26, 32, 17, 137, 70, 107, 45, 50, 68, 162, 211]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\12\
+ Status: Converted Successfuly
+Pal usage: [24, 56, 12, 154, 93, 21, 45, 109, 259, 291, 45, 12, 67, 159, 66, 59]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\13\
+ Status: Converted Successfuly
+Pal usage: [568, 117, 142, 76, 30, 130, 78, 118, 13, 24, 40, 34, 28, 32, 25, 17]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\14\
+ Status: Converted Successfuly
+Pal usage: [140, 193, 189, 100, 29, 58, 53, 26, 17, 15, 44, 89, 130, 162, 168, 219]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\2\
+ Status: Converted Successfuly
+Pal usage: [15, 26, 40, 356, 123, 365, 210, 204, 22, 48, 83, 119, 26, 25, 18, 16]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\3\
+ Status: Converted Successfuly
+Pal usage: [674, 11, 31, 17, 17, 16, 14, 5, 7, 14, 33, 20, 54, 16, 41, 54]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\4\
+ Status: Converted Successfuly
+Pal usage: [77, 64, 1200, 109, 209, 112, 59, 41, 11, 48, 26, 18, 20, 17, 34, 35]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\5\
+ Status: Converted Successfuly
+Pal usage: [73, 141, 145, 169, 278, 527, 227, 55, 36, 59, 14, 43, 69, 52, 76, 372]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\6\
+ Status: Converted Successfuly
+Pal usage: [20, 572, 87, 129, 50, 58, 16, 28, 29, 74, 24, 76, 35, 209, 196, 157]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\7\
+ Status: Converted Successfuly
+Pal usage: [443, 69, 18, 98, 61, 19, 56, 116, 136, 48, 29, 133, 65, 96, 60, 313]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\8\
+ Status: Converted Successfuly
+Pal usage: [532, 1525, 10, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+
+Path: D:/Projects/PCE_DEV/pce_demos/pce_pcm_dda_demo/build_2/code/assets/BG\9\
+ Status: Converted Successfuly
+Pal usage: [266, 102, 105, 118, 173, 70, 136, 157, 109, 143, 87, 197, 252, 96, 27, 42]
+
+
+
+
+
